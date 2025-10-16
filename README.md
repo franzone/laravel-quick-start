@@ -4,6 +4,8 @@ This Bash script automates the setup of a fresh **Laravel** project using the of
 
 It installs helpful extensions, IDE helpers, and debugging tools automatically — saving you time and making sure every Laravel app is ready for development right away.
 
+**HT**: Based on this blog article (with my own personal modifications): https://blog.devsense.com/2022/laravel-on-docker/
+
 ---
 
 ## 🧰 Features
